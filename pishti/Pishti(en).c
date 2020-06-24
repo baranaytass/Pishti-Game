@@ -3,21 +3,11 @@
 #include<time.h>
 
 /*
-deste için bir integer dizisi yaratip her bir elemana 3 basamakli bir sayi atayacagim.
-bu sayilarin yüzler basamagi kartin cinsini belirtecek.
-Kupa>Karo>Maça>Sinek   >>>>  400>300>200>100
-As>Papaz>Kiz>Vale   >>>> 14>13>12>11
+Created an integer array for the deck and assign a 3-digit number to each element.
+Hundreds digits of these numbers will represent the type of card.
+Hearts>Diamonds>Spades>Clubs   >>>>  400>300>200>100
+Ace>King>Queen>Jack   >>>> 14>13>12>11
 
-Vize ödevinde kullandigim deste yapisini(structure'dan ayirarak) ayni sekilde kullandim. Diziler artik structlarin içinde degil de pointer mantigiyla
-çalisiyor.
-
-Bilgisayar kart atarken belli bir mantikla atiyor karti. Ancak isin sansa kaldigi durumlarda (yerdekileri toplayamiyorken vs.)random
-fonksiyonunu kullaniyor. -> chooseComCard()
-
-Taraflardan ikisi için de kartlari toplayacagi zaman kullanilacak olan captureCards adinda bir fonksiyon kullandim. Ancak bu fonksiyon bir
-tepki verecegi zaman(pisti yapildiginda skoru arttirmak vs. gibi) hangi oyuncu tarafindan yapildigini anlamasi için static göstericiler(*ptrA/*ptrB)
-kullandim bu göstericiyi de captureCards fonksiyonundaki parametrelerden biri olan player1/player2 dizilerini gösteriyor. Bu diziler taraflarin
-topladigi kartlari tutan diziler.
 
 */
 
