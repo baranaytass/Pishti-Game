@@ -1,0 +1,49 @@
+First Deal
+Deals the top four cards face down to the centre of the table, and then a packet of four cards 
+to each player, beginning to dealer's right and ending with the dealer. The remaining stock of (undealt) cards is placed face 
+down to one side; the bottom card (the one the cutter looked at, which is not a jack) is placed face up at right angles under 
+the stock, so that its value can be seen by all.
+
+The dealer turns one card of the four in the centre of the table face up, to start the discard pile. If it is a jack, further 
+cards are turned up until one is found that is not a jack. In the unlikely event that all four of the centre cards were jacks, 
+there would have to be a redeal.
+
+The Play
+The player to dealer's right begins, and the turn to play passes anticlockwise. A turn consists of playing 
+one card from your hand face up on top of the discard pile.
+
+If rank of the played card matches the rank of the previous card on the pile, the playing team captures the whole pile.
+The captured cards are stored face down in front of one member of the team. The next player will then start a new discard 
+pile by playing a card face up to the empty table.
+
+Playing a jack also captures the whole pile, no matter what card is on top of it.
+
+If the played card is not a jack and is not equal to the previous top card of the pile, the played card is simply added to the top of the pile.
+
+The team which makes the first capture also gets the cards which were dealt to the centre of the table. Both 
+members of the capturing team can look at these cards, but the other team are not allowed to see them.
+
+Further Deals
+When all the players have played their four cards, the dealer deals another batch of four cards to each player 
+from the stock (but no more to the centre of the table) and play continues. When these cards are played, the dealer 
+deals a further batch of four cards each. With four players, this third deal exhausts the stock (the dealer will get the 
+exposed card from the bottom of the pack). When everyone has played their last four cards, any cards remaining in the discard 
+pile are given to the last team that made a capture. The play of the hand is now over, and the teams score for the cards they have captured (see below).
+
+Pishti
+If the pile consists of just one card and the next player captures it by playing a matching card (not a jack), 
+the capturing team scores a 10 point bonus for a pishti. The capturing card is placed face up in the team's 
+capture pile as a way of remembering the 10 points when scoring. If the pile consists of just a single jack 
+and you capture it with another jack, this counts as a double pişti, worth 20 points. A pishti can happen at 
+any stage of the game, except that you cannot score a pişti for the very first card played by the player to 
+dealer's right (capturing the original centre cards) nor for the very last card played by the dealer (just before the hand is scored).
+
+Scoring
+Points are scored for particular cards, for the majority of cards, and for each pishti as follows:
+
+Each jack	   . . .  1 point
+Each ace	   . . .  1 point
+club2		   . . .  2 points
+diamond10	   . . .  3 points
+Majority of cards  . . .  3 points
+Each pişti	   . . .  10 points
