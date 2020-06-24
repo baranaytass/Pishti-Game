@@ -3,9 +3,9 @@
 #include<time.h>
 
 /*
-deste için bir integer dizisi yaratip her bir elemana 3 basamakli bir sayi atayacagim.
-bu sayilarin yüzler basamagi kartin cinsini belirtecek.
-Kupa>Karo>Maça>Sinek   >>>>  400>300>200>100
+Deste iÃ§in bir integer dizisi yaratip her bir elemana 3 basamakli bir sayi atadÄ±m.
+Bu sayilarin yÃ¼zler basamagi kartlarin cinsini belirtecek.
+Kupa>Karo>MaÃ§a>Sinek   >>>>  400>300>200>100
 As>Papaz>Kiz>Vale   >>>> 14>13>12>11
 
 */
